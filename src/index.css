@@ -316,22 +316,22 @@ b {
 }
 
 .content {
-  text-align: justify; /* Justify the text for better alignment */
-  line-height: 1.6; /* Improve readability */
-  margin: 0 20px; /* Add some margin for spacing */
+  text-align: justify;
+  line-height: 1.6;
+  margin: 0 20px;
 }
 
 .achievement h1 {
-  margin-top: 20px; /* Spacing before Achievement section */
+  margin-top: 20px;
 }
 
 a {
-  color: #0066cc; /* Link color */
-  text-decoration: none; /* Remove underline */
+  color: #0066cc;
+  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline; /* Underline on hover */
+  text-decoration: underline;
 }
 
 @media (max-width: 900px) {
