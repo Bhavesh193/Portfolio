@@ -234,6 +234,9 @@ b {
 .illustration {
   width: 400px;
   height: 400px;
+  /* transform: translateY(-50px); */
+  position: relative;
+  top: -200px;
 }
 
 @media (max-width: 900px) {
@@ -250,6 +253,8 @@ b {
   .illustration {
     margin: auto;
     margin-bottom: 50px;
+    /* position: relative;
+    top: -200px; */
   }
 }
 
@@ -272,6 +277,8 @@ b {
     width: 300px;
     height: 300px;
     margin-bottom: 0px;
+    position: relative;
+    top: -80px;
   }
 }
 
@@ -306,6 +313,25 @@ b {
 
 .Avatar {
   width: 280px;
+}
+
+.content {
+  text-align: justify; /* Justify the text for better alignment */
+  line-height: 1.6; /* Improve readability */
+  margin: 0 20px; /* Add some margin for spacing */
+}
+
+.achievement h1 {
+  margin-top: 20px; /* Spacing before Achievement section */
+}
+
+a {
+  color: #0066cc; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
 }
 
 @media (max-width: 900px) {

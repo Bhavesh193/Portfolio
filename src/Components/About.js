@@ -12,7 +12,7 @@ const About = () => {
           <h1 className="AboutTextHeading">
             Get to <b>know</b> me!
           </h1>
-          <div>
+          <div className="content">
             <p>
               I am <b>Bhavesh Choudhary</b>, a passionate and skilled{" "}
               <b>Full Stack Developer</b> from
@@ -33,7 +33,7 @@ const About = () => {
               scalable applications is matched by my eagerness to contribute to{" "}
               <b> impactful projects </b>
               and <b> learn continuously</b>.
-              <div>
+              <div className="achievement">
                 <br />
                 <h1>Achievement</h1>
                 <br />
