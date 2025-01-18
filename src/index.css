@@ -130,6 +130,7 @@ b {
 
 .NavbarLinks a:hover {
   color: #ffffff;
+  text-decoration: none;
 }
 .NavbarLinks a::after {
   background-color: #ffffff;
@@ -141,9 +142,11 @@ b {
   width: 0px;
   border-radius: 2px;
   transition: 0.3s;
+  text-decoration: none;
 }
 .NavbarLinks a:hover:after {
   width: 95%;
+  text-decoration: none;
 }
 .Hamburger {
   display: none;
