@@ -1,4 +1,4 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-devanshsahni.vercel.app/">devanshsahni</a></h2>
+<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-bhavesh2001.vercel.app/">Bhavesh Portfolio</a></h2>
 
 <br/>
 
@@ -49,7 +49,7 @@ Setup:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/Bhavesh193/FoodRestaurantApp.git
+   git clone https://github.com/Bhavesh193/Portfolio.git
    ```
 2. Install NPM packages:
    ```sh
